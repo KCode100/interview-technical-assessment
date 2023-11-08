@@ -1,2 +1,1 @@
-# ui-tech-assessment
-Created with CodeSandbox
+## Summary of work
